@@ -1,0 +1,7 @@
+{
+  "name": "MediMind_AI",
+  "description": "An AI-powered healthcare assistant that predicts potential diseases based on symptoms, provides medical guidance, and connects users with top medical specialists in India.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
